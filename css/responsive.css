@@ -1,0 +1,979 @@
+@media only screen and (max-width: 1399px) {
+    .hire h2 {
+        font-size: 53px;
+        line-height: 85px;
+    }
+    .work-text p {
+        margin-top: 0px;
+        line-height: 37px;
+    }
+    .work-img img {
+        width: 100%;
+    }
+    .work-img img {
+        width: 100%;
+    }
+    .roles-content h3 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .user-details input[type=text], input[type=email] {
+        width: 31%;
+        margin-right: 35px;
+        margin-bottom: 80px;
+    }
+    .blog-content h4 {
+        font-size: 24px;
+        line-height: 40px;
+    }
+    
+
+section {
+    padding-bottom: 100px;
+  }
+  
+  #roles-area {
+    padding-bottom: 60px;
+  }
+  
+  #industry-area {
+    padding-bottom: 60px;
+  }
+  
+  #technologies-area {
+    padding-bottom: 60px;
+  }
+  
+  #testimonials {
+    padding-bottom: 100px;
+  }
+  
+  #faq {
+    padding-bottom: 45px;
+  }
+  
+  #blog {
+    padding-bottom: 95px;
+  }
+
+.box-shape1::after {
+    right: -292px;
+    width: 292px;
+  }
+  
+  .box-shape3::before {
+    right: -60px;
+    
+  }
+  
+  .box-shape2::before {
+    bottom: -538px;
+    height: 538px;
+  }
+  .box-shape3::after {
+    top: -117px;
+    content: '';
+    right: -279px;
+    width: 327px;
+  }
+  .footer-menu ul li {
+    margin-bottom: 30px;
+  }
+    
+  }
+
+@media only screen and (max-width: 1199px) {
+
+.menu nav ul li a {
+    font-size: 14px;
+  }
+  
+  .menu nav ul li {
+    margin: 0px 8px;
+  }
+  
+  .hire p {
+    font-size: 22px;
+  }
+  
+  .job {
+    padding-top: 35px;
+  }
+  
+  .hire a.bttn {
+    padding: 17px 38px;
+  }
+  .video-section {
+    height: 500px;
+  }
+  .wework h2.title {
+    font-size: 66px;
+  }
+  
+  .work-text p {
+    font-size: 20px;
+  }
+  
+  h2.title {
+    font-size: 72px;
+  }
+  
+  .sec-text a {
+    font-size: 14px;
+  }
+  
+  .sec-text {
+    padding-bottom: 28px;
+  }
+  
+  .roles-content p {
+    font-size: 15px;
+  }
+  
+  .industry-text h3 a {
+    font-size: 30px;
+    line-height: 34px;
+  }
+  
+  .industry-text a {
+    font-size: 14px;
+  }
+  
+  .test-content p {
+    font-size: 14px;
+    line-height: 28px;
+  }
+  
+  .test-title h4 {
+    font-size: 15px;
+    margin-right: 10px;
+  }
+  
+  .test-title h6 {
+    font-size: 12px;
+  }
+  
+  .test-btn a {
+    font-size: 14px;
+  }
+  
+  .working-box h3 {
+    font-size: 19px;
+  }
+  
+  .working-box p {
+    font-size: 13px;
+  }
+  
+  .working-time h3 {
+    font-size: 19px;
+  }
+  .box-shape3::after {
+    right: -227px;
+    width: 265px;
+    top: -94px;
+  }
+  .working-time span {
+    font-size: 15px;
+  }
+  .right-rules {
+    margin-left: 501px;
+}
+  .working {
+    margin-left: 82px;
+    margin-top: 20px;
+  }
+  .offer-option i.three {
+    bottom: 125px;
+  }
+
+  .box-shape1::after {
+    right: -229px;
+    width: 229px;
+}
+.box-shape3::after {
+  right: -227px;
+  width: 265px;
+  top: -95px;
+}
+.box-shape2::after {
+    top: -112px;
+    height: 112px;
+  }
+    .box-shape2::before {
+        bottom: -499px;
+        height: 499px;
+    }
+  
+  .faq-text a {
+    font-size: 21px;
+  }
+  
+  .blog-content p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  
+  .blog-title p {
+    font-size: 13px;
+  }
+  
+  .blog-title h4 {
+    font-size: 15px;
+  }
+  
+  .video-title h3 {
+    font-size: 20px;
+    line-height: 36px;
+  }
+  
+  .video-img img {
+
+    margin-bottom: 20px;
+  }
+  
+  form input[type="submit"] {
+    font-size: 14px !important;
+  }
+  
+  .user-msg input {
+    margin-bottom: 70px;
+  }
+  
+  .footer-menu ul li a {
+    font-size: 14px;
+  }
+  
+  h3.footer-title {
+    font-size: 18px;
+    margin-bottom: 44px;
+  }
+  
+  .footer-bottom p {
+    font-size: 15px;
+  }
+  
+  .footer-bottom nav ul li a {
+    font-size: 15px;
+  }
+  
+  .footer-bottom .row {
+
+    padding: 30px 0;
+  }
+    .hire h2 {
+      font-size: 44px;
+      line-height: 70px;
+    }
+    section {
+      padding-bottom: 60px;
+    }
+    .work-text p {
+      line-height: 30px;
+    }
+    .roles-content h3 {
+      font-size: 22px;
+      line-height: 26px;
+    }
+    #technologies-area {
+      padding-bottom: 40px;
+    }
+    .blog-content h4 {
+      font-size: 20px;
+      line-height: 34px;
+    }
+    #blog {
+      padding-bottom: 65px;
+    }
+    .user-details input[type="text"], input[type="email"] {
+      margin-right: 28px;
+      margin-bottom: 70px;
+    }
+    .footer-menu ul li {
+      margin-bottom: 20px;
+    }
+  }
+@media only screen and (max-width: 999px) {
+
+    .menu nav ul li a {
+      display: none;
+    }
+    .menu nav ul li {
+        margin: 0px 0px;
+    }
+    .menu ul {
+      position: absolute;
+      top: 54px;
+      right: 55px;
+     }
+     .search-container {
+      display: none;
+      position: absolute;
+      top: 96px;
+      right: 63px;
+    }
+    .video-section {
+      height: 400px;
+    }
+    .hire h2 {
+
+      font-size: 33px;
+      line-height: 46px;
+    }
+    .job {
+      padding-top: 14px;
+    }
+    .hire p {
+      font-size: 16px;
+    }
+    .hire a.bttn {
+      padding: 12px 26px;
+    }
+    .wework h2.title {
+      font-size: 60px;
+    }
+    .work-text p {
+      font-size: 14px;
+      margin-bottom: 5px;
+    }
+    .work-text p {
+      line-height: 16px;
+    }
+    h2.title {
+      font-size: 64px;
+    }
+    .industry-text h3 a {
+      font-size: 22px;
+    }
+    .roles-content h3 {
+      font-size: 16px;
+      line-height: 0px;
+    }
+
+    .working-box h3 {
+      font-size: 17px;
+    }
+    .working-rules.rules-one {
+      margin-left: 7px;
+  }
+    .working-box {
+      width: 200px;
+      padding: 6px 18px;
+    }
+    .working-rules {
+      padding-left: 25px;
+      margin-left: 15px;
+    }
+    .box-shape1::after {
+      right: -206px;
+      width: 206px;
+  }
+  .even-working .working-rules {
+    padding-right: 25px;
+    margin-right: 20px;
+}
+  .working-box h3 {
+    line-height: 120%;
+  }
+  
+  .offer-text {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-left: 151px;
+    margin-bottom: 89px;
+  }
+  
+.working-box i.one {
+    top: 50px;
+    right: -6px;
+}
+.working-box i.two {
+  bottom: -14px;
+  right: 88px;
+}
+.offer-option i.three {
+  bottom: 132px;
+  left: 196px;
+}
+.offer-option i.four {
+  bottom: 109px;
+  left: 196px;
+}
+  .offer-text h3 {
+ 
+    font-size: 12px;
+  }
+  
+  
+  .right-rules {
+    margin-top: 324px;
+  }
+  
+    .roles-content p {
+      font-size: 14px;
+    }
+    .test-title h4 {
+      font-size: 14px;
+      margin-right: 0px;
+    }
+    .test-title h6 {
+      font-size: 11px;
+    }
+    .faq-text a {
+      font-size: 18px;
+    }
+    .blog-content h4 {
+      font-size: 18px;
+    }
+    .blog-content p {
+      font-size: 13px;
+    }
+    .video-title h3 {
+      font-size: 16px;
+      line-height: 24px;
+    }
+    .video-img img {
+      margin-bottom: 15px;
+    }
+    section {
+      padding-bottom: 50px;
+    }
+    .user-details input[type="text"], input[type="email"] {
+      margin-right: 20px;
+      margin-bottom: 50px;
+    }
+    .working {
+        margin-left: 0px;
+        margin-top: 20px;
+      }
+
+
+      .working-box {
+        width: 190px;
+        padding: 8px 16px;
+    }
+
+    .box-shape2::after {
+      top: -150px;
+      height: 150px;
+      left: 97px;
+    }
+    .box-shape3::after {
+      right: -195px;
+      width: 227px;
+      top: -81px;
+  }
+     .box-shape2::before {
+      bottom: -484px;
+      height: 484px;
+      left: 95px;
+    }
+  
+    .user-msg input {
+      margin-bottom: 50px;
+    }
+    h3.footer-title {
+      font-size: 17px;
+      margin-bottom: 28px;
+    }
+    .footer-menu ul li {
+      margin-bottom: 11px;
+    }
+    .footer-menu ul li a {
+      font-size: 13px;
+    }
+    .footer-bottom p {
+      font-size: 14px;
+    }
+    .footer-bottom nav ul li a {
+  
+      font-size: 14px;
+    }
+  
+  header {
+    padding: 40px 0;
+  }
+  
+  .work-bttn {
+    font-size: 14px;
+  }
+  
+  .test-img {
+        margin-right: 10px;
+  }
+  
+  .test-title {
+    width: 83%;
+  }
+  
+  .footer-top .row {
+    padding-top: 55px;
+    padding-bottom: 30px;
+  }
+  
+  .contact-text p {
+    font-size: 14px;
+  }
+  
+  .multi-collapse {
+    font-size: 14px;
+    margin-top: 14px;
+  }
+  .working-rules {
+    padding-left: 40px;
+    margin-left: 20px;
+    
+  }
+
+  
+  }
+@media only screen and (max-width: 768px) {
+
+    .menu nav ul li a {
+      display: none;
+    }
+    .hire h2 {
+      font-size: 33px;
+      line-height: 46px;
+    }
+    .job {
+      padding-top: 14px;
+    }
+
+    .hire p {
+      font-size: 16px;
+    }
+    .hire a.bttn {
+      padding: 12px 26px;
+    }
+    .wework h2.title {
+      font-size: 60px;
+    }
+    .work-text p {
+      font-size: 14px;
+      margin-bottom: 5px;
+    }
+    .work-text p {
+      line-height: 16px;
+    }
+    h2.title {
+      font-size: 64px;
+    }
+    .industry-text h3 a {
+      font-size: 22px;
+    }
+    .roles-content h3 {
+      font-size: 16px;
+      line-height: 0px;
+    }
+    .roles-content p {
+      font-size: 14px;
+    }
+
+
+  .working-box {
+    width: 150px;
+    padding: 8px 10px;
+  }
+  .working-box h3 {
+    font-size: 14px;
+  }
+  .working-rules {
+    padding-left: 20px;
+  }
+  .right-rules {
+    margin-top: 272px;
+  }
+  .offer-text {
+    width: 90px;
+    height: 90px;
+    margin-left: 118px;
+  }
+
+
+  .working-box p {
+    font-size: 11px;
+  }
+  .working-time h3 {
+    font-size: 16px;
+  }
+  .working-time span {
+    font-size: 14px;
+  }
+  .right-rules {
+    margin-left: 460px;
+  }
+  .box-shape1::after {
+    right: -136px;
+    width: 136px;
+}
+.box-shape2::after {
+    top: -109px;
+    height: 109px;
+    left: 69px;
+}
+.box-shape2::before {
+    bottom: -453px;
+    height: 453px;
+    left: 70px;
+}
+.offer-option i.three {
+    bottom: 116px;
+    left: 159px;
+}
+.offer-option i.four {
+    bottom: 100px;
+    left: 159px;
+}
+.working-box i.two {
+    bottom: -14px;
+    right: 73px;
+}
+.box-shape3::after {
+    right: -121px;
+    width: 141px;
+    top: -51px;
+}
+.offer-text h3 {
+  font-size: 11px;
+}
+.working-time i {
+  width: 36px;
+  height: 36px;
+  padding-top: 10px;
+}
+
+.work-btn {
+  margin-left: 166px;
+}
+
+.work-btn a {
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.work-btn a i {
+  width: 36px;
+  height: 36px;
+  padding-top: 11px;
+}
+
+    .test-title h4 {
+      font-size: 14px;
+      margin-right: 0px;
+    }
+    .test-title h6 {
+      font-size: 11px;
+    }
+    .faq-text a {
+      font-size: 18px;
+    }
+    .blog-content h4 {
+      font-size: 18px;
+    }
+    .blog-content p {
+      font-size: 13px;
+    }
+    .video-title h3 {
+      font-size: 16px;
+      line-height: 24px;
+    }
+    .video-img img {
+      margin-bottom: 15px;
+    }
+    section {
+      padding-bottom: 50px;
+    }
+    .user-details input[type="text"], input[type="email"] {
+      margin-right: 20px;
+      margin-bottom: 50px;
+    }
+    .user-msg input {
+      margin-bottom: 50px;
+    }
+    h3.footer-title {
+      font-size: 17px;
+      margin-bottom: 28px;
+    }
+    .footer-menu ul li {
+      margin-bottom: 11px;
+    }
+    .footer-menu ul li a {
+      font-size: 13px;
+    }
+    .footer-bottom p {
+      font-size: 14px;
+    }
+    .footer-bottom nav ul li a {
+
+      font-size: 14px;
+    }
+  
+  
+  header {
+    padding: 40px 0;
+  }
+  
+  .work-bttn {
+    font-size: 14px;
+  }
+  
+  .test-img {
+    margin-right: 10px;
+  }
+  
+  .test-title {
+    width: 83%;
+  }
+  
+  .footer-top .row {
+    padding-top: 55px;
+    padding-bottom: 30px;
+  }
+  
+  .contact-text p {
+    font-size: 14px;
+  }
+  
+  
+  .multi-collapse {
+    font-size: 14px;
+    margin-top: 14px;
+  }
+  
+  .hire {
+    margin-bottom: 30px;
+  }
+  
+  .test-content {
+    margin-bottom: 40px;
+  }
+  
+  .video-content {
+    margin-bottom: 30px;
+  }
+  
+  .footer-menu {
+    text-align: center;
+  }
+  
+  .footer-title {
+    text-align: center;
+  }
+  
+  .footer-widget {
+    margin-bottom: 30px;
+  }
+  
+  .footer-text p {
+    text-align: center;
+  }
+  
+  .share {
+    text-align: center;
+  }
+  
+    .wework h2.title {
+      font-size: 48px;
+    }
+    h2.title {
+      font-size: 48px;
+    }
+    .blog-content h4 {
+      font-size: 22px;
+    }
+    .footer-menu ul li {
+      margin-bottom: 8px;
+    }
+    h3.footer-title {
+      font-size: 18px;
+      margin-bottom: 18px;
+    }
+  
+    .work-img img {
+      margin-bottom: 30px;
+    }
+    #industry-area {
+      padding-bottom: 30px;
+    }
+    #roles-area {
+      padding-bottom: 30px;
+    }
+    #testimonials {
+      padding-bottom: 30px;
+    }
+    .user-details input[type="text"], input[type="email"] {
+      width: 100%;
+    }
+
+    .sec-text {
+      padding-bottom: 5px;
+    }
+    #technologies-area {
+      padding-bottom: 30px;
+    }
+  .test-content p {
+    margin-bottom: 20px;
+  }
+  
+  .faq-text {
+    padding-bottom: 30px;
+  }
+  .user-msg input {
+    width: 100%;
+  }
+  .footer-bottom nav ul {
+    text-align: center;
+  }
+ 
+  section {
+    padding-bottom: 30px;
+  }
+
+
+  #faq {
+    padding-bottom: 30px;
+  
+}
+
+  #blog {
+    padding-bottom: 30px;
+  }
+
+ 
+ 
+
+}
+
+@media only screen and (max-width: 499px) {
+
+.video-section {
+  height: 300px;
+}
+
+h2.title {
+  line-height: 40px;
+}
+
+  .hire h2 {
+    font-size: 28px;
+    line-height: 50px;
+  }
+  .hire p {
+    font-size: 14px;
+  }
+  section {
+    padding-bottom: 14px;
+  }
+  h2.title {
+    font-size: 38px;
+  }
+  #technologies-area {
+    padding-bottom: 5px;
+  }
+  #faq {
+    padding-bottom: 5px;
+  }
+  #blog {
+    padding-bottom: 5px;
+  }
+  .working-box p {
+    font-size: 10px;
+  }
+  .working-box h3 {
+    font-size: 13px;
+  }
+  .working-box {
+    width: 110px;
+    padding: 5px 5px;
+  }
+  .working-rules {
+    padding-left: 14px;
+  }
+  .right-rules {
+    margin-left: 430px;
+    margin-top: 219px;
+  }
+  .box-shape3::after {
+    right: -122px;
+  }
+  .offer-text {
+    margin-left: 89px;
+  }
+  .work-btn {
+    margin-left: 139px;
+  }
+  .working-box h3 {
+    line-height: 100%;
+  }
+  .even-working .working-rules {
+    padding-right: 18px;
+    margin-right: 8px;
+  }
+
+
+.working-box p {
+  line-height: 100%;
+}
+
+.even-working {
+  margin-left: 39px;
+}
+
+.odd-working .working-box {
+  margin-bottom: 11px;
+}
+
+.working-sec {
+  margin-bottom: 15px;
+}
+.box-shape1::after {
+  right: -93px;
+  width: 93px;
+  top: 45px;
+}
+.working-box i.one {
+  top: 34px;
+  right: -6px;
+}
+.box-shape2::after {
+  top: -81px;
+  height: 80px;
+  left: 55px;
+}
+.box-shape2::before {
+  bottom: -428px;
+  height: 428px;
+  left: 52px;
+}
+.working-box i.two {
+  bottom: -14px;
+  right: 51px;
+}
+.offer-option i.three {
+  bottom: 93px;
+  left: 130px;
+}
+.offer-option i.four{
+  bottom: 93px;
+  left: 130px;
+}
+.box-shape3::after {
+  right: -65px;
+  width: 76px;
+  top: -27px;
+}
+.roles-content h3 {
+ margin-bottom: 15px;
+}
+#roles-area {
+  padding-bottom: 0px;
+}
+#industry-area {
+  padding-bottom: 0px;
+}
+#testimonials {
+  padding-bottom: 0px;
+}
+  }
